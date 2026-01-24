@@ -1,1 +1,38 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'tailwindcss';
+.bg-primary {
+  background-color: #00abaa;
+}
+.text-primary {
+  color: #00abaa;
+}
+.bg-secondary {
+  background-color: #9bbfe6;
+}
+.text-secondary {
+  color: #9bbfe6;
+}
+.bg-tertiary {
+  background-color: #556ea3;
+}
+.text-tertiary {
+  color: #556ea3;
+}
+.hover\.bg-primary:hover {
+  background-color: #00abaa;
+}
+.text-primary:hover {
+  color: #00abaa;
+}
+.bg-secondary:hover {
+  background-color: #9bbfe6;
+}
+.text-secondary:hover {
+  color: #9bbfe6;
+}
+.bg-tertiary:hover {
+  background-color: #556ea3;
+}
+.text-tertiary:hover {
+  color: #556ea3;
+}
